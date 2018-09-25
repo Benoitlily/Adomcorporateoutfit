@@ -103,7 +103,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<i style=\"font-weight: normal;\">WELCOME TO</i> <br><br>ADOM CORPORATE<br><br>OUTFIT",
+          "title": "<i style=\"font-weight: normal;\">WELCOME TO</i> <br>ADOM CORPORATE<br>OUTFIT",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -113,7 +113,7 @@
           "_anchor": "header1-3",
           "_styles": {
             "H1": {
-              "font-size": "72px",
+              "font-size": "48px",
               "text-align": "center",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
