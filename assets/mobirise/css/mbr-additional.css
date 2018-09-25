@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+#dropdown-menu-2 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2 .nav .link,
+#dropdown-menu-2 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2 .navbar,
+#dropdown-menu-2 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2 .dropdown-menu a:hover,
+#dropdown-menu-2 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2 .navbar-toggler {
+  color: #ffffff;
+}
+#header1-3 H1 {
+  font-size: 72px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-9 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-9 .mbr-article {
+  color: #fff;
+}
+#content5-9 .mbr-article P {
+  text-align: center;
+}
+#features1-4 P {
+  text-align: center;
+}
+#features1-5 P {
+  text-align: center;
+}
+#features1-6 P {
+  text-align: center;
+}
+#features1-7 P {
+  text-align: center;
+}
+#features1-8 P {
+  text-align: center;
+}
