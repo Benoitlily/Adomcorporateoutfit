@@ -54,3 +54,32 @@
 #features1-8 P {
   text-align: center;
 }
+#dropdown-menu-g .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-g .nav .link,
+#dropdown-menu-g .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-g .navbar,
+#dropdown-menu-g .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-g .dropdown-menu a:hover,
+#dropdown-menu-g .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-g .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box4-j .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-j .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-j .mbr-article {
+  color: #ffffff;
+}
