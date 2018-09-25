@@ -25,6 +25,13 @@
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
+#header1-3 B {
+  font-size: 48px;
+}
+#header1-3 P {
+  font-size: 23px;
+  text-align: center;
+}
 #content5-9 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
